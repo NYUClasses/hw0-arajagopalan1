@@ -20,5 +20,6 @@
 2. Podcast:
   * _The Daily from NYT_
 3. [My github](https://github.com/arajagopalan1/)
+4. [My hw0 github repo](https://github.com/NYUClasses/hw0-arajagopalan1)
 
 Once you are done, commit your changes, and push to GitHub. 
